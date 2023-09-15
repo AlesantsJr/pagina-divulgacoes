@@ -1,13 +1,8 @@
 @charset "UTF-8";
 
 @font-face {
-    font-family: 'essamemo';
-    src: url('../aAlwaysSmile.otf') format('opentype'), url('../aAlwaysSmile.ttf') format('truetype');
-}
-
-@font-face {
     font-family: 'aApiNyala';
-    src: url('../aApiNyala.otf') format('opentype'), url('../aApiNyala.ttf') format('truetype');
+    src: url('../fontes/aApiNyala.otf') format('opentype'), url('../fontes/aApiNyala.ttf') format('truetype');
 }
 
 * {
